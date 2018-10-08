@@ -153,7 +153,7 @@
 4. 表单
 
 		<form action="提交地址" method="get/post">
-			<inputype="text/password/radio/checkbox/date/file/hidden/submit/reset/button" name id value placeholder maxlength readonly checked >
+			<inpu type="text/password/radio/checkbox/date/file/hidden/submit/reset/button" name id value placeholder 			maxlength readonly checked >
 			<label for="id">
 			<select name> <option value selected> 
 		</form>
