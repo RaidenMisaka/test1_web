@@ -142,8 +142,8 @@
 		<map>
 			<area shape="rect/circle" coords="" href=""></area>
 		</map>
-2. 超链接 **<a></a>**   
-	属性： target="_blank" 新页面中显示 href同上
+2. 超链接 `<a></a>`  
+- 属性: target="_blank" 新页面中显示 href同上
 - 锚点用法：  `<a id name></a>`    `<a href="#id/name">跳转到</a>`
 3. 表格
 - 标签 table tr td th  thead tbody tfoot  caption:表格的标题
