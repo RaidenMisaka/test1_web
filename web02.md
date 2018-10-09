@@ -151,8 +151,8 @@
 - td属性：rowspan 行   colspan列
 4. 表单
 
-		<form action="提交地址" method="get/post">
-			<inpu type="text/password/radio/checkbox/date/file/hidden/submit/reset/button" name id value placeholder 			maxlength readonly checked >
-			<label for="id">
-			<select name> <option value selected> 
-		</form>
+	<form action="提交地址" method="get/post">
+		<inpu type="text/password/radio/checkbox/date/file/hidden/submit/reset/button" name id value placeholder 			maxlength readonly checked >
+		<label for="id">
+		<select name> <option value selected> 
+	</form>
