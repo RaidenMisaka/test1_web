@@ -139,9 +139,9 @@
 
 1. 图像地图 `<map id name>`   
 
-			<map>
-				<area shape="rect/circle" coords="" href=""></area>
-			</map>
+		<map>
+			<area shape="rect/circle" coords="" href=""></area>
+		</map>
 2. 超链接 a   
 	属性： target="_blank" 新页面中显示 href同上
 - 锚点用法：  `<a id name></a>`    `<a href="#id/name">跳转到</a>`
@@ -151,8 +151,9 @@
 - td属性：rowspan 行   colspan列
 4. 表单
 
-	<form action="提交地址" method="get/post">
-		<inpu type="text/password/radio/checkbox/date/file/hidden/submit/reset/button" name id value placeholder 			maxlength readonly checked >
-		<label for="id">
-		<select name> <option value selected> 
-	</form>
+		<form action="提交地址" method="get/post">
+			<inpu type="text/password/radio/checkbox/date/file/hidden/submit/reset/button" 
+			name id value placeholder maxlength readonly checked >
+			<label for="id">
+			<select name> <option value selected> 
+		</form>
